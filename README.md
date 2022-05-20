@@ -27,7 +27,7 @@ The project draws on previous and ongoing work on data politics and missing data
   - Gray, J. (2018) ["Data infrastructure literacy"](https://journals.sagepub.com/doi/10.1177/2053951718786316), *Big Data & Society*, 5(2).
   - Gray, J. & Bounegru, L. (2018) ["What a difference a dataset makes? Data journalism and/as data activism"](https://zenodo.org/record/1415450) in *Data in Society: Challenging Statistics in an Age of Globalisation*, J. Evans, S. Ruane and H. Southall (eds). Bristol: The Policy Press.
   - Centre for Public Data (2019) [Missing numbers](https://missingnumbers.org/).
-  -Cobham, A. (2020) [*The Uncounted*](https://www.wiley.com/en-gb/The+Uncounted-p-9781509536016). Cambridge, UK: Polity Press.
+  - Cobham, A. (2020) [*The Uncounted*](https://www.wiley.com/en-gb/The+Uncounted-p-9781509536016). Cambridge, UK: Polity Press.
   - D'Ignazio, C. & Klein, L. (2020) [*Data Feminism*](https://mitpress.mit.edu/books/data-feminism). Cambridge, MA: MIT Press.
   - Bounegru, L. & Gray, J. (Eds.) (2021) [*The Data Journalism Handbook: Towards A Critical Data Practice*](https://www.aup.nl/en/book/9789462989511/the-data-journalism-handbook). Amsterdam, NL: Amsterdam University Press.
   - Ọnụọha, M. ["What is Missing is Still There"](https://www.fastcompany.com/90687386/why-designers-should-embrace-weird-data?partner=rss) in H. Armstrong (Ed.) *Big Data, Big Design: Why Designers Should Care About Artificial Intelligence*. Princeton, NJ: Princeton Architectural Press.
