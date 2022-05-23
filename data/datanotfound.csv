@@ -55,7 +55,7 @@ charging points for electric transport,2020-10-01,data.overheid.nl,NL,https://da
 data on occupancy of bicycle sheds in Arnhem,2020-10-07,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/data-over-bezetting-fietsenstallingen-arnhem
 hourly energy consumption for Dutch cities,2020-11-18,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/energie-verbruik-over-een-dag
 Covid-19 cases per neighborhood per day,23-11-2020,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/covid-19-per-buurt-per-dag
-Locations of noise-reducing facilities,2020-12-14,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/geluidsreducerende-voorzieningen
+locations of noise-reducing facilities,2020-12-14,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/geluidsreducerende-voorzieningen
 "number of telephone lines by municipality, 1985-1993",2021-02-10,datos.gov.co,CO,https://www.datos.gov.co/nominate/10368
 names of companies exporting to the United States,2021-02-17,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/bedrijfsnamen-van-bedrijven-die-exporteren-naar-de-verenigde-staten
 number of registered dogs in the Netherlands per municipality,2021-02-18,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/aantal-geregistreerde-honden-in-nederland-per-gemeente
@@ -96,3 +96,31 @@ forest cadastral data linked to land cadastral data,2022-04-06,data.gov.lt,LT,ht
 my personal employment history in the Netherlands,2022-04-07,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/arbeidsverleden
 cleaning companies in Colombia,2022-04-18,datos.gov.co,CO,https://www.datos.gov.co/nominate/11194
 ratio of women to men working part time in Istanbul,2022-04-22,data.ibb.gov.tr,TR,https://data.ibb.gov.tr/en/datarequest/6fb82dd1-736a-4757-b50c-2653c7504c29
+my grandparents' marriage certificate,2021-06-15,data.gov.ro,RO,https://data.gov.ro/datarequest/976d9799-4714-44e7-9d6d-28dfbfddd2d9
+list of all registered .ro domains,2021-06-09,data.gov.ro,RO,https://data.gov.ro/datarequest/5bc0d5ff-eb77-432c-b3a5-1feafcf26b8c
+list of approved mountain tourist routes,2021-04-19,data.gov.ro,RO,https://data.gov.ro/datarequest/c7d1377a-fc3a-4665-bd02-5e3be1b24da8
+register of religious entities,2020-12-15,data.gov.ro,RO,https://data.gov.ro/datarequest/4e926e0e-03ef-4868-b5cf-210ecca4e233
+bathymetry of Brisbane and Mary river,2022-01-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest?state=closed&sort=desc&page=3
+traffic count per day for pedestrians and bicycles on Kurilpa Bridge (2019-2020),2021-12-02,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/bc271de8-fba0-4634-982b-03690ec17ab8
+apprenticeship job available in Toowoomba in 2018 and in 2021,2021-11-23,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/98d64cfa-5b3e-41e3-851d-1e17a10820c9
+Urangan time interval tide predictions for 2022,2021-11-15,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/5b7566b3-818f-4827-a822-dcda6c99188e
+highest jump in Australia,2021-11-13,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/28899e4d-0ea9-4c7c-baf5-03d854f51a62
+data on public/community housing allocation outcomes,2021-10-07,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/e2c62350-0ee3-4f51-a753-1233b5969902
+list of sold boats and prices,2021-10-06,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/49bc1868-a39b-4a99-91b0-d387f37323e0
+"immigration list for the Southern Belle, 1874",2021-02-01,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/a78f7864-8ae2-4169-92d8-b8cf5d0257ff
+Burnett River water quality monitoring data 2020,2021-02-15,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/5e03e54c-9939-4d2a-a7f2-318b5cf1eda1
+Mooloolaba tide gauge 2020 archived interval readings,2021-01-22,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/53a2e1a5-0b0f-499e-9bf5-0088e68054fb
+robbery offences in Queensland by business type (2019-2020),2021-01-25,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/a0bdab86-48ea-4f22-983f-baf8ddd6e9dc
+"top baby, prohibited and rejected baby names in Queensland",2021-01-08,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/f2f5a1d8-1146-4785-9e4e-2fe26c3871ae
+"wave monitoring data for the Gold Coast, Tweed Heads and Palm Beach monitoring sites for 2019 and 2020",2020-10-08,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/dee7a1ba-47ae-43b8-af14-cfeae52bca1b
+number reported cases of family domestic violence to QLD police on 28 September 2019 and 6 October 2019,2020-10-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/f3008535-faed-4142-ae1d-a17a9eb26871
+sale price (or the stamp duty paid) for every volvo s40 MY07 sold in QLD in the last couple of years,2020-09-28,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/692b9988-8755-469b-9c1f-c784c12ac10a
+numbers of apprentices currently undertaking a Cert III in Walls and Ceilings throughout Queensland,2020-06-16,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/ba2d7d70-5ae0-4b4e-9a98-a7ed0ef47fb4
+data on infringement notices for litter and illegal dumping (2016-2020),2020-01-13,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/3e86b1b1-ed40-429f-b84e-004680a5c6ed
+data on deceased people,2019-12-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/c45275be-8d65-46aa-84a4-85540eef2938
+data on respiratory disease in coal mine workers 1999-2019,2019-11-29,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/6dafed2d-7c30-4f90-894f-1142be3e9599
+historic air quality data (1990-),2019-11-15,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/de2204bd-66e6-479d-9917-55965563343c
+city-level data on household electricity consumption,2019-11-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/f8f2b3f9-d639-4307-a25c-b9307f8b8be9
+oil and gas production in Queensland,2019-10-21,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/e4c7c2c3-f31c-4d76-9099-f30b1e7ab5f7
+Koala hospital data,2019-08-13,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/718f0f45-91b8-413f-b170-2ccc43f8e590
+data on prostitution at the municipal level for all of Colombia,2021-11-18,datos.gov.co,CO,https://www.datos.gov.co/nominate/10899
