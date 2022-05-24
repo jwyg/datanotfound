@@ -9,7 +9,7 @@ list of valuable trees in Halderberge,2017-03-19,data.overheid.nl,NL,https://dat
 electric vehicles per postcode area,2017-03-28,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/voertuigtype-electrisch-per-postcodegebied
 sweeping waste in municipalities,2017-04-03,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/veegvuil-in-gemeenten
 nutritional values ​​of products,2017-04-28,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/voedingswaarden-van-producten
-list of municipal councilors who have split from their local political party,2017-04-28,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/afsplitsingen-gemeenteraadsleden
+list of municipal councillors who have split from their local political party,2017-04-28,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/afsplitsingen-gemeenteraadsleden
 tax data for shopping streets in Rotterdam,2017-05-21,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/belastinggegevens-winkelstraten-rotterdam
 compensation for poultry farmers in the Netherlands,2017-05-27,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/waardetabellen-compensatie-pluimveehouders-in-nederland
 wind turbine noise levels,2017-06-15,data.overheid.nl,NL,https://data.overheid.nl/en/community/datarequest/wind-turbines-noise-level
@@ -100,7 +100,7 @@ my grandparents' marriage certificate,2021-06-15,data.gov.ro,RO,https://data.gov
 list of all registered .ro domains,2021-06-09,data.gov.ro,RO,https://data.gov.ro/datarequest/5bc0d5ff-eb77-432c-b3a5-1feafcf26b8c
 list of approved mountain tourist routes,2021-04-19,data.gov.ro,RO,https://data.gov.ro/datarequest/c7d1377a-fc3a-4665-bd02-5e3be1b24da8
 register of religious entities,2020-12-15,data.gov.ro,RO,https://data.gov.ro/datarequest/4e926e0e-03ef-4868-b5cf-210ecca4e233
-bathymetry of Brisbane and Mary river,2022-01-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest?state=closed&sort=desc&page=3
+bathymetry of Brisbane and Mary river,2022-01-12,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/36c95076-0a96-4a77-bcc1-04d2ec34968c
 traffic count per day for pedestrians and bicycles on Kurilpa Bridge (2019-2020),2021-12-02,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/bc271de8-fba0-4634-982b-03690ec17ab8
 apprenticeship job available in Toowoomba in 2018 and in 2021,2021-11-23,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/98d64cfa-5b3e-41e3-851d-1e17a10820c9
 Urangan time interval tide predictions for 2022,2021-11-15,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/5b7566b3-818f-4827-a822-dcda6c99188e
@@ -124,3 +124,17 @@ city-level data on household electricity consumption,2019-11-12,data.qld.gov.au,
 oil and gas production in Queensland,2019-10-21,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/e4c7c2c3-f31c-4d76-9099-f30b1e7ab5f7
 Koala hospital data,2019-08-13,data.qld.gov.au,AU,https://www.data.qld.gov.au/datarequest/718f0f45-91b8-413f-b170-2ccc43f8e590
 data on prostitution at the municipal level for all of Colombia,2021-11-18,datos.gov.co,CO,https://www.datos.gov.co/nominate/10899
+acts of ecocide,2013-08-09,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/61945cc5-70b4-4c63-8c72-dfbc921000dc
+nuclear workforce in Canada and retirees per year,2013-07-22,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/351b9bee-6095-476b-96dd-6f40e069be9f
+eco-tourism projects existing and planned in Canada by province and by year,2022-05-12,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/74f22890-0192-4aa6-9368-cbf2c86f11cc
+top 100 dispensed drugs in Canada,2013-08-09,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/c96c68e2-979f-4116-9e88-2eaff36e6824
+list of registered journalism organizations,2021-02-12,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/d1c1fad9-b0db-4f15-9c6c-690c5d78480d
+newspaper subsidies,2021-05-07,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/6d146bce-308d-45ec-8ae3-47fe6c5613f7
+budget for the gender based violence knowledge centre,2021-02-11,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/19771ec3-4e5a-44d5-9f8e-be9d473fc35b
+dataset of all government employee details,2013-08-09,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/6018c535-9b21-4771-b897-b2ca7c0cd597
+locations of recorded human accidents from all national parks,2021-05-07,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/b03b2ebb-0016-4169-a42a-bef802192cef
+Internet of Things (IOT) sensor data from fish farms,2021-06-09,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/3fbaa0ac-e84a-4ddc-8016-8e2ea199ce0f
+baby names registered by year,2020-04-22,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/807af475-d4df-493a-a658-13632ba392ea
+gas station prices and locations,2015-06-12,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/c4134902-7016-4f1d-b6c9-4fdd944df5f5
+hospital addresses and locations ,2017-10-02,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/1136602a-1b7e-4213-b2ac-cde12f0dd3b1
+historical and present-day utility rates offered by utilities companies,2019-06-20,open.canada.ca,CA,https://search.open.canada.ca/en/sd/id/ea0712e4-037b-4efb-b38d-9d16368c7213
