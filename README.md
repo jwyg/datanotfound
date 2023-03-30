@@ -16,7 +16,7 @@ The as yet unsuccessful requests have been selected from data portals around the
 
 The source list can be found at [data/sources.csv](data/sources.csv).
 
-The project draws on previous and ongoing work on data politics and missing data, including [*Data Worlds*](https://jonathangray.org/2021/03/16/data-worlds-mit/) (forthcoming, MIT Press) as well as:
+The project draws on previous and ongoing work on data politics and missing data, including [*Data Worlds*](https://jonathangray.org/2021/03/16/data-worlds-mit/) (forthcoming, MIT Press), ["What do data portals do? Tracing the politics of online devices for making data public"](https://doi.org/10.1017/dap.2023.7) as well as:
   - Bruno, I., Didier, E., Vitale, T. (2014) ["Statactivism: forms of action between disclosure and affirmation"](https://hal-sciencespo.archives-ouvertes.fr/hal-01767045/document). *Partecipazione e conflitto - PArticipation and COnflict*, 7(2): 198-220.
   - Gray, J. & Davies, D. (2015) ["Fighting Phantom Firms in the UK: From Opening Up Datasets to Reshaping Data Infrastructures?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2610937.). Working paper presented at the Open Data Research Symposium at the 3rd International Open Government Data Conference in Ottawa, May 27th 2015
   - Ọnụọha, M. (2016) ["The Library of Missing Datasets"](https://github.com/MimiOnuoha/missing-datasets).
